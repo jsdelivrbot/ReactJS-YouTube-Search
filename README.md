@@ -1,25 +1,31 @@
-# ReduxSimpleStarter
+###  YouTube Search
+#### Technologies Used:   :rocket:  HTML5, CSS3, JSX, React.js, Redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+ - $ : `git clone https://github.com/getwebem/React-Redux-YouTube-Search.git`
+ - $ : `cd React-Redux-YouTube-Search`
+ - Open : `Brackets .`
+ - Web Browser : `http://localhost:8080`
 
-### Getting Started
+#### TERMINAL 1
 
-There are two methods for getting started with this repo.
+:fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
+#### How to Use
+1. Business-to-business conversion
+2. Business-to-business conversion
+3. Business-to-business conversion
+4. Business-to-business conversion
+5. Business-to-business conversion
+6. Business-to-business conversion
+7.  Business-to-business conversion
+8. Business-to-business conversion
+9. Business-to-business conversion
+10. Business-to-business conversion
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+![pic1]()
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+![pic2]()
 
-```
-> npm install
-> npm start
-```
+![pic3]()
+
+[View Demo]()  
