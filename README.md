@@ -1,5 +1,5 @@
 ###  YouTube Search
-#### Technologies Used:   :rocket:  HTML5, CSS3, JSX, React.js, Redux
+#### Technologies Used:   :rocket:  HTML5, CSS3, JSX, React.js, Redux, Bootstrap 4
 
  - $ : `git clone https://github.com/getwebem/React-Redux-YouTube-Search.git`
  - $ : `cd React-Redux-YouTube-Search`
