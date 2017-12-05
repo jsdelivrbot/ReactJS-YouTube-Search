@@ -12,10 +12,6 @@ import VideoDetail from './components/video_detail';
 
 
 
-
-
-
-
 // Create a new component. This component should produce some HTML
 class App extends Component {
   constructor (props){
@@ -31,7 +27,7 @@ class App extends Component {
   return (
     <div>
       <SearchBar />
-      <VideoDetail videos={this.state.videos[0]}/>
+      <VideoDetail video={this.state.videos[0]}/>
       <VideoList videos={this.state.videos} />
 
     </div>
