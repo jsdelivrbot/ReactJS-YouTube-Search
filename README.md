@@ -13,10 +13,4 @@
 1. Type Your search queries in the search bar
 2. It works just like YouTube Search :fries::fries::fries:
 
-
-
-![pic1]()
-
-![pic2]()
-
-![pic3]()
+![pic1](https://raw.githubusercontent.com/getwebem/ReactJS-YouTube-Search/master/Screen%20Shot%202017-12-06%20at%2007.12.38.png)
