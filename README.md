@@ -3,7 +3,8 @@
 
  - $ : `git clone https://github.com/getwebem/ReactJS-YouTube-Search.git`
  - $ : `cd ReactJS-YouTube-Search`
- - Open : `Brackets .`
+ - $ : `npm install`
+ - $ : `nam start`
  - Web Browser : `http://localhost:8080`
 
 #### TERMINAL 1
